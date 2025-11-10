@@ -32,5 +32,5 @@
   - `asyncio`: concurrent support for I/O-bound tasks using async and await syntax
 - "Writing high performance code is only one part of being highly performant with successful projects over the longer term. Overall team velocity is far more important than speedups and complicated solutions. Several factors are key to this—good structure, documentation, debuggability, and shared standards."
 - "optimizing for the team rather than the code block"
-- 
+### 
 
